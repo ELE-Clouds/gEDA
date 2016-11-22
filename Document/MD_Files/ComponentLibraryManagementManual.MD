@@ -12,7 +12,7 @@
 
 ### 新建空文件
 1. 使用以下命令创建一个新文件：<BR>
-    gschem sympolname-#.sym ##其中“sympolname”为称号名称，如：7400、237等等，“#”为一个序号，
+        gschem sympolname-#.sym ##其中“sympolname”为称号名称，如：7400、237等等，“#”为一个序号，
 
 
 ## gEDA元件PCB符号（.pc文件）的创建
